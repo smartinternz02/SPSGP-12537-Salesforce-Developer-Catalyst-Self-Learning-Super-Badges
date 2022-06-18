@@ -8,9 +8,13 @@ Trailhead puts the learner at the heart of everything we do. Bite-sized, convers
 **Topics Covered**
 
 (1) Apex Triggers
+
 (2) Apex Testing
+
 (3) Asynchronous Apex
+
 (4) Lightning Web Component Basics
+
 (5) Apex Integration Services
 
 
